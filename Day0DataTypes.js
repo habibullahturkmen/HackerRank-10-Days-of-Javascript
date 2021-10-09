@@ -55,7 +55,6 @@ function performOperation(secondInteger, secondDecimal, secondString) {
 
 }
 
-
 function main() {
     const secondInteger = readLine();
     const secondDecimal = readLine();
